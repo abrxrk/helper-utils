@@ -6,7 +6,6 @@ A collection of reusable TypeScript/JavaScript utility modules for common backen
 
 These helper utilities are designed to be framework-agnostic and easily portable across different projects. Simply copy the files you need and integrate them into your codebase.
 
-```
 
 ## 🚀 Installation
 
@@ -26,4 +25,4 @@ Feel free to extend or modify these utilities to fit your specific needs. These 
 ## 📄 License
 
 Open source - use freely in your projects.
-```
+
